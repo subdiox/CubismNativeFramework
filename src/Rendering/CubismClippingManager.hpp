@@ -149,7 +149,6 @@ protected:
     csmRectF _tmpBoundsOnModel;       ///< マスク配置計算用の矩形
 };
 
-#include "CubismClippingManager.tpp"
 }}}}
 
 //------------ LIVE2D NAMESPACE ------------
